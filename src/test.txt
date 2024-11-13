@@ -1,0 +1,3 @@
+cat(prof_oreo).
+?- cat(prof_oreo).
+
